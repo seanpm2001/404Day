@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# 404 Day
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](404RedWhite.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+## [Seanpm2001](https://github.com/seanpm2001)
 
 ### Top
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#404-Day)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#404Day)
 
 [02.0 - About](#About)
 
@@ -71,20 +71,26 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# 404Day
+<404 Error: day not found> April 4th 2021 (4.04) is now a new technical holiday to celebrate hyperlinks, and to raise awareness on Link rot (Hyperlink celebration day, Link Rot Awareness day) 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository aims to be the homepage for the HTTP 404 error as a holiday. Nobody created a technical holiday for it yet, and it has 2 significant important things to recognize:
+
+1. To celebrate hyperlinks and their importance (hyperlink recognition day, 404 day)
+
+2. To recognize the problems of link rot (Linkrot recognition day)
+
+This project is a humor project, but at the same time is a serious project.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/404Day/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +136,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 17 commits (As of Sunday, April 4th 2021 at 8:39 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +206,11 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.html)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/404Day/discussions)
+
+[View examples of common websites 404 pages](/404/Examples/1/)
 
 No other resources at the moment.
 
@@ -220,9 +228,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+File version: `1 (Sunday, April 4th 2021 at 8:39 pm)`
 
-Line count: `0,296`
+Line count: `0,314`
 
 ***
 
@@ -268,11 +276,21 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (Sunday, April 4th 2021 at 8:39 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added information to the description
+
+> * Fixed broken template links (ironic)
+
+> * Updated the resources section
+
+> * Updated the Wiki section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
