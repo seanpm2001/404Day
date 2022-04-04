@@ -1,0 +1,16 @@
+html
+article
+wiki
+gplv3
+error
+holiday
+page-not-found
+404
+md
+txt
+gpl3
+http4
+404day
+404-day
+file-not-found
+day-not-found
