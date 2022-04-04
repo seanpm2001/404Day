@@ -1,0 +1,10 @@
+# Start of script
+# robots.txt file for 404day
+# Allow access to all files
+User-agent: *
+Disallow: 
+# File info
+# File type: Robots Exclusion Standard file (robots.txt)
+# File version: 1 (2022, Monday, April 4th at 12:48 pm)
+# Line count (including blank lines and compiler line): 11
+# End of script
