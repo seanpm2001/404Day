@@ -140,39 +140,69 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 > [02.1 - Unrelated](#Unrelated)
 
-[03.0 - Wiki](#Wiki)
+[03.0 - Link rot](#Link-rot)
 
-[04.0 - Version history](#Version-history)
+> [03.0.1 - What is link rot?](#What-is-link-rot)
 
-[05.0 - Software status](#Software-status)
+> [03.0.2 - Types of link rot](#Types-of-link-rot)
 
-[06.0 - Sponsor info](#Sponsor-info)
+> > [03.0.2.1 - General](#General)
 
-[07.0 - Contributers](#Contributers)
+> > > [03.0.2.1.1 - Website rot](#Website-rot)
 
-[08.0 - Issues](#Issues)
+> > > [03.0.2.1.2 - Page rot](#Page-rot)
 
-> [08.1 - Current issues](#Current-issues)
+> > > [03.0.2.1.3 - Query rot](#Query-rot)
 
-> [08.2 - Past issues](#Past-issues)
+> > > [03.0.2.1.4 - Anchor rot](#Anchor-rot)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+> > > [03.0.2.1.5 - Fuzzy rot](#Fuzzy-rot)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [03.0.3 - What can be done to prevent it?](#What-can-be-done-to-prevent-it)
 
-[09.0 - Resources](#Resources)
+> > [03.0.3.1 - Crawling services](#Crawling-services)
 
-[10.0 - Sources](#Sources)
+> > [03.0.3.2 - Be careful where you upload](#Be-careful-where-you-upload)
 
-[11.0 - Contributing](#Contributing)
+> > [03.0.3.3 - Donate to the sites that matter](#Donate-to-the-sites-that-matter)
 
-[12.0 - About README](#About-README)
+[04.0 - 404 collection](#404-collection)
 
-[13.0 - README Version history](#README-version-history)
+[05.0 - Requests](#Requests)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[06.0 - Wiki](#Wiki)
 
-> [14.9 - End of file](#EOF)
+[07.0 - Version history](#Version-history)
+
+[08.0 - Software status](#Software-status)
+
+[09.0 - Sponsor info](#Sponsor-info)
+
+[10.0 - Contributers](#Contributers)
+
+[11.0 - Issues](#Issues)
+
+> [11.1 - Current issues](#Current-issues)
+
+> [11.2 - Past issues](#Past-issues)
+
+> [11.3 - Past pull requests](#Past-pull-requests)
+
+> [11.4 - Active pull requests](#Active-pull-requests)
+
+[12.0 - Resources](#Resources)
+
+[13.0 - Sources](#Sources)
+
+[14.0 - Contributing](#Contributing)
+
+[15.0 - About README](#About-README)
+
+[16.0 - README Version history](#README-version-history)
+
+[17.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [17.9 - End of file](#EOF)
 
 ***
 
@@ -195,13 +225,89 @@ This project is a humor project, but at the same time is a serious project.
 
 This year, you should also help fight Internet censorship in libraries, the EFF supports it. [https://www.eff.org/event/404-day](https://www.eff.org/event/404-day)
 
-[Source 2](https://www.vice.com/en/article/8qxgk5/today-is-404-day-because-the-web-is-breaking/)
+[`Source 1 (www.vice.com)`](https://www.vice.com/en/article/8qxgk5/today-is-404-day-because-the-web-is-breaking/)
 
 ### Unrelated
 
 In Atlanta Georgia (US) 404 day is a self-proclaimed holiday that started in 2021.
 
-[Source 1](https://atlantadailyworld.com/2022/04/04/404-day-in-atlanta-is-celebration-of-culture-and-purpose/)
+[`Source 2 (atlanticdailyworld.com)`](https://atlantadailyworld.com/2022/04/04/404-day-in-atlanta-is-celebration-of-culture-and-purpose/)
+
+### How to celebrate 404 day
+
+#### Salute the fallen
+
+Remember websites that have gone down.
+
+#### Try to prevent link rot
+
+See below.
+
+## Link rot
+
+### What is link rot?
+
+Link rot is a common issue, where websites go down or have their pages moved around, which results in hyperlinks 'rotting' (becoming dead links)
+
+### Types of link rot
+
+These are the 5 types of link rot (I made 3 of them up (Query rot, Anchor rot, Fuzzy rot), as a term for them didn't exist yet, or I couldn't find one, possibly due to link rot)
+
+#### General
+
+##### Website rot
+
+**Importance:** `Very high`
+
+When a website goes down (such as `https://www.example.com/`) so do all of its links.
+
+##### Page rot
+
+**Importance:** `High/Very high`
+
+When a webpage goes down, it is no longer accessible.
+
+##### Query rot
+
+**Importance:** `Low`
+
+When a query (such as `?id=11111`) stops working, this is also a form of link rot.
+
+##### Anchor rot
+
+**Importance:** `Very low/low`
+
+When an anchor link no longer works (such as `#rotten`) this is a form of link rot
+
+##### Fuzzy rot
+
+**Importance:** `None`
+
+When you can't enter any text you want (eg: `jshfkdhfkfh`) and get a result.
+
+#### What can be done to prevent it?
+
+##### Crawling services
+
+Crawling services (such as [the wayback machine](http://wayback.archive.org/) a part of the Internet Archive) help to reduce the amount of link rot by archiving websites that have gone down or changed too much. These services aren't free to operate, but are free to use. It is recommended you [donate to the Internet archive](https://archive.org/donate/) to keep this great service running, and prevent it from becoming one of the biggest incidents of link rot to date (if it can't be funded, it will go down, and we will lose trillions of links, and a great deal of priceless Internet history)
+
+##### Be careful where you upload
+
+Sites like YouTube, TikTok, and almost all other social media sites have stability issues, and can take content down at any time, even without violating their terms of service. Note that sites like YouTube will likely go down in the future if they continue operating in the way they do. Also, entire YouTube channels are often deleted at random, due to abuse of the DMCA, an overly broad change to the terms of service, or another illicit reason (YouTube is being noted here, as it is one of the biggest sites that is in constant danger)
+
+##### Donate to the sites that matter
+
+Websites like archive.org, wikipedia.org, and other important sites should be donated to, so that their operators can continue to keep them running for the current generation, along with future generations. Even just a $1.00/month donation can mean life or death, especially when most people don't donate. It all adds up.
+
+### 404 collection
+
+Starting on 2023 Webmasters day, this project was heavily updated, and received important new documentation. It also received a new [`404 collection`](/Graphics/404/), a collection of 404 pages across various sites. It is a major work in progress, and is community run. Check out the link for more details.
+
+### Requests
+
+**Importance:** `Very low`
+
+GitHub has some queries that shouldn't result in 404. The most notable one (to me) is typing `https://github.com/NEW` instead of `https://github.com/new` most pages aren't case sensitive, so why is this still happening?
 
 ***
 
@@ -359,17 +465,17 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (Monday, 2022, April 4th at 1:56 pm)`
+**File version:** `3 (2023, Tuesday, April 4th at 5:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,495`
+**Line count (including blank lines and compiler line):** `641`
 
 **Encoding:** `UTF-8` `With Emoji 5.0`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-<!-- **You may need special rendering support for the `<details>` HTML tag being used in this document** !-->
+> **Note** _You may need special rendering support for the `<details>` HTML tag being used in this document_
 
 ***
 
@@ -421,6 +527,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _This is the yearly 404 day update for 2021._
+
 > Changes:
 
 > * Added information to the description
@@ -441,7 +549,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-_This is the yearly 404 day update._
+> **Note** _This is the yearly 404 day update for 2022._
 
 > Changes:
 
@@ -467,13 +575,35 @@ _This is the yearly 404 day update._
 
 > * No other changes in version 2
 
-**Version 3 (Coming soon)**
+**Version 3 (2023, Tuesday, April 4th at 5:16 pm PST)**
 
 > Changes:
 
-> * Coming soon
+> **Note** _This is a significant yearly update to the documentation, to celebrate 404 day/webmasters day. This is the 2023 update_
 
-> * No other changes in version 3
+- [x] Updated the index
+- [x] Added the `How to celebrate 404 day` section
+- - [x] Added the `Salute the fallen` subsection
+- - [x] Added the `Try to prevent link rot` subsection
+- [x] Added the `Link rot` section
+- - [x] Added the `What is link rot?` subsection
+- - [x] Added the `Types of link rot` subsection
+- - - - [x] Added the `General` sub-subsection
+- - - - - [x] Added the `Website rot` sub-sub-subsection
+- - - - - [x] Added the `Page rot` sub-sub-subsection
+- - - - - [x] Added the `Query rot` sub-sub-subsection
+- - - - - [x] Added the `Anchor rot` sub-sub-subsection
+- - - - - [x] Added the `Fuzzy rot` sub-sub-subsection
+- - [x] Added the `What can be done to prevent it?` subsection
+- - - [x] Added the `Crawling services` sub-subsection
+- - - [x] Added the `Be careful where you upload` sub-subsection
+- - - [x] Added the `Donate to the sites that matter` sub-subsection
+- [x] Added the `404 collection` section
+- [x] Added the `Requests` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 **Version 4 (Coming soon)**
 
@@ -482,6 +612,22 @@ _This is the yearly 404 day update._
 > * Coming soon
 
 > * No other changes in version 4
+
+**Version 5 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
